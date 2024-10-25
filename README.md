@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Singh
 - 👀 I’m interested in Data Science and Programming.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 📫 How to reach me - singh28ayush1119@gmail.com
 
 <!---
