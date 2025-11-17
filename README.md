@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-- [IPL Dream Team Predictor](https://ipl-fantasy-team-predictor.streamlit.app/) — An AI/ML based fantasy cricket team generator for IPL 2025.  
-- [whatsPlan]([#](https://whatsplan.vercel.app/login)) — A personal calendar application.
+- [IPL Dream Team Predictor](https://ipl-fantasy-team-predictor.streamlit.app/) - An AI/ML based fantasy cricket team generator for IPL 2025.  
+- [whatsPlan](https://whatsplan.vercel.app/login) - A personal calendar application.
 
 ---
